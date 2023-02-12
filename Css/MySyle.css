@@ -18,3 +18,19 @@ th{
     height: fit-content;
     text-align: left;
 }
+.boxclass:hover
+{
+    color: #8d2fff;
+}
+#boxid:picture-in-picture
+{
+    color: rgb(141, 47, 255);
+}
+label
+ {
+    color: black;
+ }
+
+ .disp{
+    display: inline;
+ }
